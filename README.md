@@ -4,7 +4,9 @@ vim ~/.boto
 vim /etc/boto
 
 > [Credentials]
+
 > aws_access_key_id = 
+
 > aws_secret_access_key = 
 
 然后执行rou53.py
